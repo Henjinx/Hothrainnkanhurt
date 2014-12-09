@@ -1,5 +1,4 @@
 Hothrainnkanhurt
 ================
 
-Server Modpack development hokan
-
+Server Modpack development
