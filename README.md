@@ -33,7 +33,6 @@ Dimensional Anchor
 Electrical Age
 Enchanting Plus
 Enchiridion
-Ender IO
 Ender Utilities
 EnderStorage
 EnderTech
