@@ -9,29 +9,19 @@ Anleitung für Joni:
 Liste von Mods zum durchgehen (http://hermitcraft.com/modsauce ):
 
 Advanced Genetics
-Another One Bites the Dust
-Applied Energistics 2
 Archimedes' Ships
 Armor Status HUD
 Aroma1997Core
 Aroma1997s Dimensional World (Mining World Mod)
 AsieLib
 Balkon's Weapon Mod
-Baubles
 bdlib
 Better Chests
 BiblioCraft
-Big Reactors
 Biomes O Plenty
-Blood Magic
-Botania
 bspkrsCore
-BuildCraft (BC)
 Carpenders Blocks
-ChickenChunks
 Chisel
-CodeChickenCore
-CodeChickenLib
 CoFHCore
 CoFHLib
 Compact Machines
@@ -97,22 +87,15 @@ NetherOres
 NotEnoughItems (NEI)
 ObsidiPlates
 OpenBlocks
-OpenEye
 OpenModsLib
-Opis (tps and server diagnostics mod)
 Ore Dictionary Converter
 Pam's Harvestcraft
 Practicalities
 Project Red
-QuarryPlus
-RailCraft
 RAM (RPG Adv Mod)
-Random Things 2.0 : Remake
 Redstone Arsenal
 Reptile Mod
-Roguelike Dungeons
 Ruins (random dungeon)
-SecretRoomsMod
 Simple Parts-Content Pack (Flans)
 Simply Jetpacks
 SlimeVoid Library
@@ -127,7 +110,6 @@ The Twilight Forest
 Thermal Expansion
 Thermal Foundation
 TiC Tooltips
-Tinkers Construct
 TMechworks
 TooMuchLoot
 TooMuchRain
