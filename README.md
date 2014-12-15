@@ -13,7 +13,7 @@ http://www.atlauncher.com/pack/BevosTechPack
 http://www.atlauncher.com/pack/NaturalMagic
 
 
-Liste von Mods zum durchgehen (http://hermitcraft.com/modsauce ):
+Liste von Mods zum durchgehen:
 
 Advanced Genetics
 Archimedes' Ships
