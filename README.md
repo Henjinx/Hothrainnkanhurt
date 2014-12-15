@@ -146,4 +146,3 @@ Wireless Redstone
 Witchery
 WR-CBE
 Zan's Minimap (voxelmap)
-chromaticraft
