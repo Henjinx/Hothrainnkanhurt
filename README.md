@@ -3,6 +3,8 @@ Hothrainnkanhurt
 
 Server Modpack development
 
+Changelog: https://github.com/Hokan22/Hothrainnkanhurt/wiki/Changelog
+
 To Check:
 http://www.atlauncher.com/pack/TheMadPack
 http://www.atlauncher.com/pack/TheCrackPack
