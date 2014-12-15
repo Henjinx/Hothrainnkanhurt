@@ -4,7 +4,6 @@ Hothrainnkanhurt
 Server Modpack development
 
 To Check:
-http://www.atlauncher.com/pack/HermitcraftModsauce
 http://www.atlauncher.com/pack/TheMadPack
 http://www.atlauncher.com/pack/TheCrackPack
 http://www.atlauncher.com/pack/DNSTechpack
@@ -19,9 +18,11 @@ Archimedes' Ships
 Armor Status HUD
 Aroma1997Core
 Aroma1997s Dimensional World (Mining World Mod)
+Ars Magica 2
 AsieLib
 Balkon's Weapon Mod
 bdlib
+Beheaded
 Better Chests
 BiblioCraft
 Biomes O Plenty
@@ -36,9 +37,12 @@ Damage Indicators
 Death Counter
 Description Tags
 Dimensional Anchor
+Dimensional Anchors
 Electrical Age
 Enchanting Plus
 Enchiridion
+Ender Storage
+Ender Utilities
 Ender Utilities
 EnderStorage
 EnderTech
@@ -62,9 +66,12 @@ Galactricraft Planets BETA
 Gendustry
 Grave Stones
 Growthcraft
+Hardcore Ender Expansion
 Hardcore Questing Mode
 Hat Stands
 Hats
+hats for Hats mod
+Hex Wool
 iChun Util
 Immibis Core
 Inventory Tweaks
@@ -73,17 +80,20 @@ Iron Chests 2
 Jabba
 Liquid XP
 Lite Loader
-MicdoodleCore BETA
 Mantle
 Mariculture
 Mekanism
 MekanismGenerators
 MekanismTools
+MicdoodleCore BETA
 Mine & Blade: Battlegear 2
 MineFactory Reloaded
 MineTweaker 3 (recipe system)
 Mob Dismemberment
 MobiusCore
+Mod Tweaker
+Modern Warfare-Content Pack
+Modular Force Field System (MFFS)
 Morpheus
 Natura
 NEI Addons
@@ -98,13 +108,18 @@ Pam's Harvestcraft
 Practicalities
 Project Red
 RAM (RPG Adv Mod)
+Random Things
 Redstone Arsenal
 Reptile Mod
+Resonant-Engine
+Rogue Like Dungeons
 Ruins (random dungeon)
 Simple Parts-Content Pack (Flans)
 Simply Jetpacks
 SlimeVoid Library
+Solar Flux
 Soul Shards: Reborn (Original Soul Shards remake)
+SourceCodedCore
 Statues
 StatusEffectHUD
 Steve's Factory Manager
@@ -120,6 +135,8 @@ TooMuchLoot
 TooMuchRain
 Translocator
 Tubes
+Universal Electricity
+Voxel Map
 Waila
 Waila Harvestability
 WAWLA
