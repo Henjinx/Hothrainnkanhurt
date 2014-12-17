@@ -11,7 +11,9 @@ http://www.atlauncher.com/pack/TheCrackPack
 http://www.atlauncher.com/pack/DNSTechpack
 http://www.atlauncher.com/pack/BevosTechPack
 http://www.atlauncher.com/pack/NaturalMagic
-
+http://www.technicpack.net/modpack/details/ultra-modded-survival-pack.266012
+http://minecraft-de.gamepedia.com/Mod/Hexxit
+http://www.technicpack.net/hexxit#
 
 Liste von Mods zum durchgehen:
 
