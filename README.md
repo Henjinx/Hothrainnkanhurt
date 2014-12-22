@@ -149,3 +149,12 @@ Witchery
 WR-CBE
 Zan's Minimap (voxelmap)
 chromaticraft
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2213063-fluxed-trinkets-rf-powered-baubles
+http://forum.feed-the-beast.com/threads/0-1-4-modular-armour-moar-upgrades.50480/
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292336-crafting-pillars-mod-christmas-edition
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2153132-adventurers-amulets-v-1-5-0b-who-needs-diamonds
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295003-1-7-2-mystical-trinkets-1-4-1-update-4000
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294898-mithril-mod-top-tier-mithril-tools-armors-and
+http://minecraft.curseforge.com/mc-mods/223525-binnies-mods
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445786-1-6-4-1-7-10-thaumic-exploration-0-6-0-thaumcraft
+
