@@ -14,6 +14,7 @@ http://www.atlauncher.com/pack/NaturalMagic
 http://www.technicpack.net/modpack/details/ultra-modded-survival-pack.266012
 http://minecraft-de.gamepedia.com/Mod/Hexxit
 http://www.technicpack.net/hexxit#
+http://www.feed-the-beast.com/mods
 
 Liste von Mods zum durchgehen:
 
