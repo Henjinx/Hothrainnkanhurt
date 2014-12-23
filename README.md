@@ -29,7 +29,7 @@ Balkon's Weapon Mod
 bdlib
 Beheaded
 Better Chests
-BiblioCraft
+8======3 --- BiblioCraft
 Biomes O Plenty
 bspkrsCore
 Carpenders Blocks
