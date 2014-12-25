@@ -23,8 +23,6 @@ AppleCore
 Archimedes' Ships
 Archmagus
 Armor Status HUD
-Aroma1997Core
-Aroma1997s Dimensional World (Mining World Mod)
 Ars Magica 2
 Artifacts
 Asgard Shield
@@ -320,6 +318,7 @@ Whats This Pack
 Wild Caves 3
 Wireless Redstone
 Witchery
+World Generation Manager
 WR-CBE
 Zan's Minimap (voxelmap)
 
