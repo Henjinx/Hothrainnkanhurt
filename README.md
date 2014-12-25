@@ -10,9 +10,7 @@ http://www.atlauncher.com/pack/DNSTechpack
 http://www.atlauncher.com/pack/BevosTechPack
 http://www.atlauncher.com/pack/NaturalMagic
 http://www.technicpack.net/modpack/details/ultra-modded-survival-pack.266012
-http://minecraft-de.gamepedia.com/Mod/Hexxit
 http://www.technicpack.net/hexxit#
-http://www.feed-the-beast.com/mods
 
 Liste von Mods zum durchgehen:
 
@@ -20,6 +18,9 @@ Liste von Mods zum durchgehen:
 Admin Commands Toolbox
 Advanced Generators
 Advanced Genetics
+Advanced Power Management
+AdvancedMachines
+AdvancedSolarPanels
 Air Overhaul
 Apocalypse
 AppleCore
@@ -29,48 +30,64 @@ Aroma1997Core
 Aroma1997s Dimensional World (Mining World Mod)
 Ars Magica 2
 Artifacts
+Asgard Shield
+Asgard Shield Addons
 AsieLib
 AutoPackager
+Back Tools
+Backpacks
 Balkon's Weapon Mod
 BattleTowers
 bdlib
 Beheaded
 Better Chests
+Better Dungeons
+Better Storage
 BiblioWoods
+BinniesMods
 Biomes O Plenty
 bspkrsCore
+Buff Bar
 Carpenter's Blocks
+ChargePads
+Chest Transporter	
 Chisel
+Chococraft
 chromaticraft
 CoFHCore
 CoFHLib
 Compact Machines
+CompactSolars
 ComputerCraft
 Computronics
 Crafting Pillars
+CreeperCollateral
 Damage Indicators
+DartCraft
 DeadlyWorld
 Death Counter
 Dense Ores
 Description Tags
 Dimensional Anchors
+Dimensional Doors
 Dungeonpack
 Easy Crafting
 Electrical Age
-Enchanting Plus
 Enchanting Plus
 Enchiridion
 Ender Storage
 Ender Utilities
 EnderStorage
 EnderTech
-EnderTech
 EnhancedPortals 3
 Equivalent Exchange 3
 Extra Buttons
 Extra Utilities
+ExtrabiomesXL
 ExtraTiC - Tinkers' Construct Mod Support Add-on
+ExtraUtils
 Factorization
+Falling Meteors Mod
 FastCraft
 Flans Mod
 FlatSigns
@@ -87,11 +104,16 @@ Funky Locomotion
 FZAddons
 GalacticraftCore BETA
 Galactricraft Planets BETA
+GateCopy
 Gendustry
 Grave Stones
+GraviSuite
+GravityGun
+GregTech
 Growthcraft
 Hardcore Ender Expansion
 Hardcore Questing Mode
+Harken Scythe
 Hat Stands
 Hats
 hats for Hats mod
@@ -110,67 +132,91 @@ Hungeroveraul
 iChun Util
 Immibis Core
 IndustrialCraft 2
-InfernalMobs
+Infernal Mobs
+Infinibows
 InGame Info XML
 Inventory Tweaks
 InvisibLights
 Iron Chests 2
+IronChest
 Jabba
 Java 7 Checker
+Legend Gear
 LibSandstone
 Liquid Dirt
 Liquid XP
 Lite Loader
+LogisticsPipes
 Lucky_Block
 LunatriusCore
 Lycanites Mobs
 Magicalcrops
+MagicBees
 Mantle
 Mariculture
 Mekanism
 MekanismGenerators
 MekanismTools
 Metallurgy 4
+MFFS Calclavia
 MicdoodleCore BETA
 Mine & Blade: Battlegear 2
 MineFactory Reloaded
 MineTweaker 3 (recipe system)
+MiscPeripherals
 Mob Dismemberment
 MobiusCore
 MobProperties
 Mod Tweaker
 Modern Warfare-Content Pack
 Modular Force Field System (MFFS)
+ModularPowerSuits
+More Bows
 Morph
 Morpheus
+MPSAddons
+Mystcraft
 Natura
 NaturalAbsorption
 NEI Addons
 NEI Plugins Unofficial
 NetherOres
 NotEnoughItems (NEI)
+NuclearControl
+Nucleum-Omnium
 ObsidiPlates
+OffLawn
+OmniTools
 OpenBlocks
 OpenComponents
 OpenComputers
 OpenModsLib
+OpenPeripheral
 Ore Dictionary Converter
 Pam's Harvestcraft
 PandorasBox
 PlanterHelper
+Plugins for Forestry
 PneumaticCraft
+PortalGun
+PowerConvertors
+PowerCrystalsCore
 Practicalities
 Pressure Pipes
 Project Red
+Project Zulu
 ProjectE-Alpha
 RAM (RPG Adv Mod)
 Random Things
+Redpower 2
 Redstone Arsenal
 Redstone Paste
 Refined Relocation
 Reptile Mod
 Resonant-Engine
 Rogue Like Dungeons
+Rotten Flesh to Leather
+Ruins
 Ruins (random dungeon)
 Sanguimancy
 Shatter
@@ -204,14 +250,17 @@ TMechworks
 TooMuchLoot
 TooMuchRain
 Translocator
+Treecapitator
 Trollore
 Tubes
 Universal Electricity
 VeinMiner
+Vender Block
 Voxel Map
 Waila
 Waila Harvestability
 WAWLA
+Wild Caves 3
 Wireless Redstone
 Witchery
 WR-CBE
