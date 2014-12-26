@@ -35,7 +35,6 @@ BiblioWoods
 BinniesMods
 Blocklings
 Blood Utils
-Chromaticraft
 Craft Heraldry
 Crafting Pillars
 Description Tags
