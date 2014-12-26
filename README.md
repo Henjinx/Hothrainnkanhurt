@@ -104,6 +104,7 @@ Liste von Mods:
 ~AnimationApi
 ~FoxLib
 ~iChunUtil
+~IvToolkit
 ~LunatriusCore
 ~MalisisCore
 ~Metallurgy Core 
