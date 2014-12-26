@@ -95,6 +95,7 @@ Special Mobs
 Stackie
 Tails
 Thaumcraft Mob Aspects
+Thaumic Energistics
 Thaumic Exploration
 The Elysium
 The Erebus
