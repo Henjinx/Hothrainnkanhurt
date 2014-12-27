@@ -21,7 +21,6 @@ Liste von Mods:
 +BattleTowers
 +BiblioCraft
 +BiblioWoods
-+BinniesMods (modified)
 +Blocklings
 +Blood Utils
 +Craft Heraldry
@@ -52,7 +51,6 @@ Liste von Mods:
 +InvisibLights
 +LaunchGUI
 +Liquid XP
-+Lycanites Mobs
 +Malisis Doors
 +Mariculture
 +Metallurgy 4
@@ -66,7 +64,6 @@ Liste von Mods:
 +PneumaticCraft
 +Project Blue
 +Project Zulu
-+Psychedelicraft
 +RAM (RPG Adv Mod)
 +Redstone Arsenal
 +Redstone Paste
@@ -74,7 +71,6 @@ Liste von Mods:
 +Resonant Induction 
 +Ruins (random dungeon)
 +Sanguimancy
-+Schematica
 +Simple Fluid Tanks
 +Sound Filters
 +Special Mobs
@@ -88,13 +84,10 @@ Liste von Mods:
 +The Hat Pack
 +The Twilight Forest
 +Witchery
-+World Generation Manager
-//Balkon's Weapon Mod (Maybe)
 //Better Dungeons (outdated)
 //Better Title Screen (maybe)
 //Biomes O Plenty (resources)
-//Colourful Portals (or EnhancedPortals 3)
-//EnhancedPortals 3 (or Colourful Portals)
+//EnhancedPortals 3
 //Flans Mod (http://flansmod.com/content-packs) (resources)
 //GalacticraftCore (resources)
 //Galactricraft Planets (resources)
