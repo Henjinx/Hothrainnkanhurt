@@ -6,7 +6,6 @@ Server Modpack development
 Changelog: https://github.com/Hokan22/Hothrainnkanhurt/wiki/Changelog
 
 To Check:
-http://www.technicpack.net/hexxit#
 
 Liste von Mods:
 
