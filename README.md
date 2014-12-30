@@ -21,8 +21,17 @@ Liste von Mods:
 +BattleTowers
 +BiblioCraft
 +BiblioWoods
++Biomes O Plenty
 +Blocklings
 +Blood Utils
++Content Pack: FutureCraft
++Content Pack: LPxPlayer'sCommunity-Weapon-Pack
++Content Pack: Mecha Parts Pack
++Content Pack: Modern Weapons Pack
++Content Pack: Prototype's sci-fi package
++Content Pack: Simple Parts Pack
++Content Pack: Titan Pack
++Content Pack: World War II Pack
 +Craft Heraldry
 +Crafting Pillars
 +Description Tags
@@ -30,13 +39,17 @@ Liste von Mods:
 +Dungeon Pack
 +Electrical Age 
 +Enchiridion
++EnhancedPortals 3
 +ExtraCells
 +ExtraTiC
 +Factorization
 +Falling Meteors Mod
 +FastCraft
++Flans Mod
 +Forestry Extras 2
 +Fossils And Archeology Revival
++GalacticraftCore (resources)
++Galactricraft Planets (resources)
 +GraviSuite
 +Hardcore Ender Expansion
 +Hat Stands
@@ -49,7 +62,6 @@ Liste von Mods:
 +InGame Info XML
 +Invincible Hamsters
 +InvisibLights
-+LaunchGUI
 +Liquid XP
 +Malisis Doors
 +Mariculture
@@ -85,15 +97,9 @@ Liste von Mods:
 +The Twilight Forest
 +Witchery
 //Better Dungeons (outdated)
-//Better Title Screen (maybe)
-//Biomes O Plenty (resources)
-//EnhancedPortals 3
-//Flans Mod (http://flansmod.com/content-packs) (resources)
-//GalacticraftCore (resources)
-//Galactricraft Planets (resources)
-//INpureCore (maybe)
 //NEI Plugins Unofficial (outdated)
 //OpenBlocks (outdated)
+Better Title Screen (maybe)
 ~AnimationApi
 ~FoxLib
 ~iChunUtil
@@ -101,6 +107,7 @@ Liste von Mods:
 ~LunatriusCore
 ~MalisisCore
 ~Metallurgy Core 
+~MicdoodleCore
 ~Resonant Engine
 ~Universal Electricity Core
 ~WaslieCore
